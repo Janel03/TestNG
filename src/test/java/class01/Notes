@@ -1,0 +1,21 @@
+************************testNG*************************************
+
+1.what is an XML?
+ Xml is a file format just like text, json, HTML e.tc
+
+ <project>
+     <message>"heelo world"</message>
+ </project>
+
+
+ an example for json :
+
+ {
+    "project":"project1",
+    "message":"hello world"
+
+ }
+
+ a text file:
+
+ the project is project1 and the message is hello world;

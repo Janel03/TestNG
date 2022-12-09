@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2e957f6-5039-4385-a12f-08335af9a8c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/dependsOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/enableDisable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/testNGAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class01/testNGExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/class02/ExamplesAssertion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IFF8Duxt5m3bXZRlWvZQgrsrVp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.dependsOn">
+    <configuration name="D:/Eclipse/TestNGBasic/BefoeSuiteBeforeTestExample.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGBasic" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/BefoeSuiteBeforeTestExample.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Eclipse/TestNGBasic/Parallel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGBasic" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Parallel.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Eclipse/TestNGBasic/SmokeRegresionGroups.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGBasic" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/SmokeRegresionGroups.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Eclipse/TestNGBasic/listenerXML2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGBasic" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/listenerXML2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dependsOn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class01" />
+      <option name="MAIN_CLASS_NAME" value="class01.dependsOn" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.dependsOn" />
+        <item itemvalue="TestNG.D:/Eclipse/TestNGBasic/SmokeRegresionGroups.xml" />
+        <item itemvalue="TestNG.D:/Eclipse/TestNGBasic/Parallel.xml" />
+        <item itemvalue="TestNG.D:/Eclipse/TestNGBasic/BefoeSuiteBeforeTestExample.xml" />
+        <item itemvalue="TestNG.D:/Eclipse/TestNGBasic/listenerXML2.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2e957f6-5039-4385-a12f-08335af9a8c5" name="Changes" comment="" />
+      <created>1669769270917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669769270917</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
